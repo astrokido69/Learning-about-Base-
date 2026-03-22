@@ -10,3 +10,6 @@ Started my journey into Base ecosystem.
 
 ## Thoughts
 We dey early 😄
+## March 22
+- Learned how commits work
+- Made my first GitHub commit
